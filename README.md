@@ -1,3 +1,5 @@
+<img width="250px" src="https://neon.tech/brand/neon-logo-dark-color.svg" />
+
 # Next.js application with Neon Postgres and Okta authentication
 
 This is a Next.js application that uses `Neon Postgres` as the database, `Drizzle ORM` to interact with it and `Okta` for user authentication. It allows users from your Okta organization to log in, save their favorite quote, and view or delete it later.
